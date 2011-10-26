@@ -1,0 +1,39 @@
+Cluster 1
+
+	Documents:
+		1. A1
+		2. A2
+		3. A3
+		4. M2
+		5. M3
+
+	Top Words:
+		1. VERY
+		2. AARON
+		3. WROTE
+
+
+Cluster 2
+
+	Documents:
+		1. M1
+
+	Top Words:
+		1. SITTING
+		2. HIS
+		3. ROOM
+
+
+Cluster 3
+
+	Documents:
+		1. B1
+		2. B2
+		3. B3
+
+	Top Words:
+		1. SWIMMING
+		2. BARNEY
+		3. BRIDGE
+
+

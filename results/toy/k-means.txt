@@ -1,0 +1,42 @@
+Cluster 1
+
+	Documents:
+		1. I3
+		2. E3
+
+	Top Words:
+		1. HAS
+		2. CAUSED
+		3. BUDGET
+
+
+Cluster 2
+
+	Documents:
+		1. I1
+		2. I2
+		3. I4
+		4. E1
+		5. E2
+		6. E4
+		7. U1
+
+	Top Words:
+		1. MORE
+		2. A
+		3. ON
+
+
+Cluster 3
+
+	Documents:
+		1. U2
+		2. U3
+		3. U4
+
+	Top Words:
+		1. STUDENTS
+		2. AT
+		3. OFTEN
+
+

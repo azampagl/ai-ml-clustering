@@ -1,0 +1,39 @@
+Cluster 1
+
+	Documents:
+		1. A1
+		2. B1
+		3. B2
+		4. B3
+
+	Top Words:
+		1. SWIMMING
+		2. PROGRAM
+		3. BARNEY
+
+
+Cluster 2
+
+	Documents:
+		1. A3
+		2. M1
+		3. M2
+
+	Top Words:
+		1. WHEN
+		2. PROJECT
+		3. OUT
+
+
+Cluster 3
+
+	Documents:
+		1. A2
+		2. M3
+
+	Top Words:
+		1. VERY
+		2. ENJOYS
+		3. PEOPLE
+
+

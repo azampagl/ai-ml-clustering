@@ -1,0 +1,7 @@
+python main.py -t "../data/mine/mine-topics.txt" -a "k-means" -k 3 -i 2 -o "../results/mine/tfidf.dat" -r "../results/mine/k-means.txt"
+python main.py -t "../data/mine/mine-topics.txt" -a "bi-k-means-size" -k 3 -i 2 -o "../results/mine/tfidf.dat" -r "../results/mine/bi-k-means-size.txt"
+python main.py -t "../data/mine/mine-topics.txt" -a "bi-k-means-sim" -k 3 -i 2 -o "../results/mine/tfidf.dat" -r "../results/mine/bi-k-means-sim.txt"
+python main.py -t "../data/mine/mine-topics.txt" -a "agg-ist" -k 3 -o "../results/mine/tfidf.dat" -r "../results/mine/agg-ist.txt"
+python main.py -t "../data/mine/mine-topics.txt" -a "agg-cst" -k 3 -o "../results/mine/tfidf.dat" -r "../results/mine/agg-cst.txt"
+python main.py -t "../data/mine/mine-topics.txt" -a "agg-upgma" -k 3 -o "../results/mine/tfidf.dat" -r "../results/mine/agg-upgma.txt"
+python main.py -t "../data/mine/mine-topics.txt" -a "agg-upgma-k-means" -k 3 -o "../results/mine/tfidf.dat" -r "../results/mine/agg-upgma-k-means.txt"

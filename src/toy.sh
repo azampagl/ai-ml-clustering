@@ -1,0 +1,7 @@
+python main.py -t "../data/toy/toy-topics.txt" -a "k-means" -k 3 -i 2 -o "../results/toy/tfidf.dat" -r "../results/toy/k-means.txt"
+python main.py -t "../data/toy/toy-topics.txt" -a "bi-k-means-size" -k 3 -i 2 -o "../results/toy/tfidf.dat" -r "../results/toy/bi-k-means-size.txt"
+python main.py -t "../data/toy/toy-topics.txt" -a "bi-k-means-sim" -k 3 -i 2 -o "../results/toy/tfidf.dat" -r "../results/toy/bi-k-means-sim.txt"
+python main.py -t "../data/toy/toy-topics.txt" -a "agg-ist" -k 3 -o "../results/toy/tfidf.dat" -r "../results/toy/agg-ist.txt"
+python main.py -t "../data/toy/toy-topics.txt" -a "agg-cst" -k 3 -o "../results/toy/tfidf.dat" -r "../results/toy/agg-cst.txt"
+python main.py -t "../data/toy/toy-topics.txt" -a "agg-upgma" -k 3 -o "../results/toy/tfidf.dat" -r "../results/toy/agg-upgma.txt"
+python main.py -t "../data/toy/toy-topics.txt" -a "agg-upgma-k-means" -k 3 -o "../results/toy/tfidf.dat" -r "../results/toy/agg-upgma-k-means.txt"

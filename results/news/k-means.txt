@@ -1,0 +1,93 @@
+Cluster 1
+
+	Documents:
+		1. S1
+		2. S2
+		3. S3
+		4. S4
+
+	Top Words:
+		1. SAMOA
+		2. TSUNAMI
+		3. MILES
+
+
+Cluster 2
+
+	Documents:
+		1. E1
+		2. E2
+		3. E3
+		4. E4
+		5. E5
+
+	Top Words:
+		1. BERNANKE
+		2. FED
+		3. COUNCIL
+
+
+Cluster 3
+
+	Documents:
+		1. H3
+
+	Top Words:
+		1. AUCTION
+		2. PROPERTY
+		3. AUCTIONS
+
+
+Cluster 4
+
+	Documents:
+		1. C1
+		2. C2
+		3. C3
+		4. C4
+		5. C5
+		6. I1
+		7. I2
+		8. I3
+		9. I4
+		10. I5
+		11. I6
+
+	Top Words:
+		1. IRAN
+		2. NUCLEAR
+		3. CHINA
+
+
+Cluster 5
+
+	Documents:
+		1. B8
+
+	Top Words:
+		1. SESSIONS
+		2. COMMITTEE
+		3. REFORM
+
+
+Cluster 6
+
+	Documents:
+		1. B1
+		2. B2
+		3. B3
+		4. B4
+		5. B5
+		6. B6
+		7. B7
+		8. H1
+		9. H2
+		10. H4
+		11. H5
+
+	Top Words:
+		1. CREDIT
+		2. QUARTER
+		3. PERCENT
+
+

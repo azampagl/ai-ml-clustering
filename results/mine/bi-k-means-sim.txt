@@ -1,0 +1,39 @@
+Cluster 1
+
+	Documents:
+		1. M1
+		2. M2
+		3. M3
+
+	Top Words:
+		1. MILES
+		2. CRYING
+		3. OUT
+
+
+Cluster 2
+
+	Documents:
+		1. A1
+		2. A2
+		3. A3
+		4. B1
+
+	Top Words:
+		1. AARON
+		2. WROTE
+		3. SWIMMING
+
+
+Cluster 3
+
+	Documents:
+		1. B2
+		2. B3
+
+	Top Words:
+		1. S
+		2. BROOKLYN
+		3. EVERYONE
+
+

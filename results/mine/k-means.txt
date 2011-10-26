@@ -1,0 +1,39 @@
+Cluster 1
+
+	Documents:
+		1. A2
+
+	Top Words:
+		1. ENJOYS
+		2. PEOPLE
+		3. FOR
+
+
+Cluster 2
+
+	Documents:
+		1. B1
+		2. B2
+		3. B3
+
+	Top Words:
+		1. SWIMMING
+		2. BARNEY
+		3. BRIDGE
+
+
+Cluster 3
+
+	Documents:
+		1. A1
+		2. A3
+		3. M1
+		4. M2
+		5. M3
+
+	Top Words:
+		1. WROTE
+		2. WHEN
+		3. PROJECT
+
+

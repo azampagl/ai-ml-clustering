@@ -1,0 +1,93 @@
+Cluster 1
+
+	Documents:
+		1. B1
+		2. B2
+		3. B4
+		4. B5
+		5. B6
+		6. B7
+		7. H1
+		8. H2
+		9. H3
+		10. H4
+		11. H5
+
+	Top Words:
+		1. CREDIT
+		2. FORECLOSURE
+		3. QUARTER
+
+
+Cluster 2
+
+	Documents:
+		1. C1
+
+	Top Words:
+		1. CLINTON
+		2. TIES
+		3. DEEPENING
+
+
+Cluster 3
+
+	Documents:
+		1. B8
+
+	Top Words:
+		1. SESSIONS
+		2. COMMITTEE
+		3. REFORM
+
+
+Cluster 4
+
+	Documents:
+		1. E1
+		2. E2
+		3. E3
+		4. E4
+		5. E5
+		6. B3
+
+	Top Words:
+		1. BERNANKE
+		2. FED
+		3. FINANCIAL
+
+
+Cluster 5
+
+	Documents:
+		1. S1
+		2. S2
+		3. S3
+		4. S4
+
+	Top Words:
+		1. SAMOA
+		2. TSUNAMI
+		3. MILES
+
+
+Cluster 6
+
+	Documents:
+		1. C2
+		2. C3
+		3. C4
+		4. C5
+		5. I1
+		6. I2
+		7. I3
+		8. I4
+		9. I5
+		10. I6
+
+	Top Words:
+		1. IRAN
+		2. NUCLEAR
+		3. TALKS
+
+

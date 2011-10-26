@@ -1,0 +1,93 @@
+Cluster 1
+
+	Documents:
+		1. C1
+		2. C2
+		3. C3
+		4. C4
+		5. C5
+
+	Top Words:
+		1. CHINA
+		2. COMMUNIST
+		3. BEIJING
+
+
+Cluster 2
+
+	Documents:
+		1. E1
+		2. E3
+		3. E5
+		4. E4
+		5. B1
+		6. B4
+		7. B5
+		8. H1
+		9. H2
+		10. H3
+		11. H5
+		12. B6
+		13. B7
+		14. H4
+		15. B2
+		16. E2
+
+	Top Words:
+		1. BERNANKE
+		2. CREDIT
+		3. FORECLOSURE
+
+
+Cluster 3
+
+	Documents:
+		1. I1
+		2. I2
+		3. I6
+		4. I3
+		5. I5
+		6. I4
+
+	Top Words:
+		1. IRAN
+		2. NUCLEAR
+		3. TALKS
+
+
+Cluster 4
+
+	Documents:
+		1. S1
+		2. S3
+		3. S4
+		4. S2
+
+	Top Words:
+		1. SAMOA
+		2. TSUNAMI
+		3. MILES
+
+
+Cluster 5
+
+	Documents:
+		1. B3
+
+	Top Words:
+		1. TANNIN
+		2. CIOFFI
+		3. COURT
+
+
+Cluster 6
+
+	Documents:
+		1. B8
+
+	Top Words:
+		1. SESSIONS
+		2. COMMITTEE
+		3. REFORM
+
+

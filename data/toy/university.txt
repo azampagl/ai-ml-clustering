@@ -1,0 +1,12 @@
+--U1--
+Computer science is a major in many universities.
+
+--U2--
+Students often use wireless internet at universities.
+
+--U3--
+Students at universities often use the internet for completing
+and submitting homework assignments.
+
+--U4--
+Students usually complain the quality of food at universities.
