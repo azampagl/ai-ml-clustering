@@ -1,14 +1,4 @@
-============================================
-Python Clustering
-
-Aaron Zampaglione
-CSE 5800 Advanced Topics in CS: Learning/Mining and the Internet, Fall 2011
-Proj 03, CLUSTERING
-============================================
-
-Python implementation of the different clustering algorithms.
-
-A Comparison of Document Clustering Techniques
+A Comparison of Document Clustering Techniques for performance comparisons.
 
 Michael Steinbach, George Karypis, Vipin Kumar 
 Department of Computer Science and Egineering, 
