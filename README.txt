@@ -1,5 +1,7 @@
 A Comparison of Document Clustering Techniques for performance comparisons.
 
+Original algortihms are based on:
+
 Michael Steinbach, George Karypis, Vipin Kumar 
 Department of Computer Science and Egineering, 
 University of Minnesota 
